@@ -2,3 +2,24 @@
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
+/* Custom header color */
+.custom-header {
+    background-color: #3F51B5;
+    /* Indigo */
+    color: white;
+}
+
+/* Custom button styling */
+.custom-button {
+    background-color: #009688;
+    /* Teal */
+    color: white;
+}
+
+/* Output text styling */
+.output-text {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #4CAF50;
+    /* Green */
+}
